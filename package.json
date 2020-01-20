@@ -25,7 +25,7 @@
     "url": "https://github.com/focusaurus/express_code_structure/issues"
   },
   "dependencies": {
-    "bole": "3.0.2",
+    "bole": "4.0.0",
     "express": "4.15.2",
     "pug": "2.0.0-beta6"
   },
